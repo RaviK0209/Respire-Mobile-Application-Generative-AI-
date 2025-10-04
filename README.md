@@ -1,4 +1,4 @@
-# Respire: A Digital Therapeutics Application for Respiratory Health
+# Respire: A Breathing Exercises Application for Respiratory Health
 
 A prototype mobile application developed to assist patients with respiratory conditions through guided exercises, gamification, and real-time feedback.
 
