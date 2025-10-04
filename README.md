@@ -31,9 +31,9 @@ This project demonstrates the power of **Prompt Engineering** and **Generative A
 ## 📄 Project Documentation
 
 * **Prompt History:** The complete history of the prompts used to build and debug the application.
-    * **[Link to your `docs/prompts.md` file]**
+
 * **Demo Video:** A full video showcasing the app's functionality and user flow.
-    * **[Link to your `assets/demo-video.mp4` file]**
+  
 
 ## 🤝 Contact
 
